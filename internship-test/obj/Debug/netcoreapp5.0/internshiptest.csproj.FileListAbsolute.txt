@@ -1,0 +1,16 @@
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.csprojAssemblyReference.cache
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.AssemblyInfoInputs.cache
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.AssemblyInfo.cs
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.csproj.CoreCompileInputs.cache
+/home/intern/projects/internship-test/bin/Debug/netcoreapp5.0/internshiptest
+/home/intern/projects/internship-test/bin/Debug/netcoreapp5.0/internshiptest.deps.json
+/home/intern/projects/internship-test/bin/Debug/netcoreapp5.0/internshiptest.runtimeconfig.json
+/home/intern/projects/internship-test/bin/Debug/netcoreapp5.0/internshiptest.runtimeconfig.dev.json
+/home/intern/projects/internship-test/bin/Debug/netcoreapp5.0/internshiptest.dll
+/home/intern/projects/internship-test/bin/Debug/netcoreapp5.0/ref/internshiptest.dll
+/home/intern/projects/internship-test/bin/Debug/netcoreapp5.0/internshiptest.pdb
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.dll
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/ref/internshiptest.dll
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.pdb
+/home/intern/projects/internship-test/obj/Debug/netcoreapp5.0/internshiptest.genruntimeconfig.cache
